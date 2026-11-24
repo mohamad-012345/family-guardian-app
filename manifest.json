@@ -3,9 +3,9 @@
     "short_name": "أمان عائلتي",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#F5F7F9",
-    "theme_color": "#1F4E6B",
-    "description": "A new Flutter project.",
+    "background_color": "#F6EBDA",
+    "theme_color": "#F6EBDA",
+    "description": "تطبيق عائلي: العودة إلى البيت، التذكيرات، الصلاة",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
